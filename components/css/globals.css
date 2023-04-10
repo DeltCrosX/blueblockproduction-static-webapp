@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+@font-face {
+    font-family: 'Rajdhani', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap');
+}
+
+.rajdhani-300 {
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 300;
+}
+.rajdhani-400 {
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 400;
+}
+.rajdhani-500 {
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 500;
+}
+.rajdhani-600 {
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+}
+.rajdhani-700 {
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 700;
+}
